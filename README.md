@@ -47,8 +47,9 @@ This project aims to modernize groundwater monitoring by reducing manual calcula
 ---
 
 
-## 🖥️ Screenshots / Demo
-(Add your images or upload demo video link)
+## 🖥️ Necessary Links
+ [PPT](https://docs.google.com/presentation/d/1bbfpt9hU-C_JVOr5KuVrlLDj8FVXz-EN/edit?usp=drive_link&ouid=113880254364433369168&rtpof=true&sd=true)
+ [Demo Video]( https://lnkd.in/eBW_Ra3y)
 
 ---
 
