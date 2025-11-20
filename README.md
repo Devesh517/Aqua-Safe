@@ -53,7 +53,7 @@ This project aims to modernize groundwater monitoring by reducing manual calcula
 ---
 
 ## 👥 Team Members
--   
+-   [Devesh Dhanwani](https://github.com/Devesh517)
 
 *(All team members are collaborators in this repository.)*
 
