@@ -54,6 +54,11 @@ This project aims to modernize groundwater monitoring by reducing manual calcula
 
 ## 👥 Team Members
 -   [Devesh Dhanwani](https://github.com/Devesh517)
+-   [Harpreet Kaur](https://github.com/Harpreetkaur20)
+-   [Anchal Dhawa](https://github.com/anchaldhawa)
+-   [Harshita Harwani](https://github.com/harshitatech25)
+-   [Laksha Janyani](https://github.com/lakshajanyani)
+-   [Ashish Singh Rawat](https://github.com/AshishSinghRawat21)
 
 *(All team members are collaborators in this repository.)*
 
